@@ -9,8 +9,9 @@ Simply paste this snippet into your browser console:
 ```javascript
 eval(atob("ZG9jdW1lbnQuaGVhZC5hcHBlbmRDaGlsZCgocz1kb2N1bWVudC5jcmVhdGVFbGVtZW50KCdzY3JpcHQnKSkuc2V0QXR0cmlidXRlKCdzcmMnLCdodHRwczovL3Jhd2Nkbi5naXRoYWNrLmNvbS94TWlrZWUxL3NvdXJjZWlvLWhhY2tpbmcvNjI5Yjc2YWY3NTliMjcwMzIzNTk5NWQ0MzNjMTU5NTU3ZGU4ZTBkNC92MS9pbmRleC5qcycpfHxzKQ=="))
 ```
+Then enable the bot with the options in the top-right of your screen.
 
-The snippet contains a base64-encoded string which contains the JavaScript code to load the hack script, which is converted to normal text and evaluated.
+*The snippet contains a base64-encoded string which contains the JavaScript code to load the hack script, which is converted to normal text and evaluated.*
 
 ## Instructions
 
